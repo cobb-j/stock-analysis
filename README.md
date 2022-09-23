@@ -8,7 +8,7 @@
 ## Results
 * The Results for the anaylysis show how long it takes to run data throught the entire worksheet at a fast pace and the nested for loops are simplified from the original code allowing the spreadsheet to be used in a simplified way. 
 
-##Summary
+## Summary
 
 * In general, the code being refactored helps allow Steve to analyize the data more efficiently, however by using the refactored code it may cause the original code to encounter errors and become dispoal to the entire worksheet. 
 * The major advantages of the original and reforactored code that it can be interchangeable to allow for changes to be made throughout the VBA they only thing that would be necessary to change is the module the code is written in.
